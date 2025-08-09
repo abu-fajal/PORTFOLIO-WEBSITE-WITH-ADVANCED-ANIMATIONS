@@ -61,6 +61,7 @@ Building this portfolio was not just about putting my work online — it was a c
 The end result is a portfolio website that is professional, engaging, and technically impressive, successfully showcasing both my front-end development skills and my personal brand. It’s a project I can continuously update as I create new work, ensuring it remains fresh and relevant over time.
 
 #OUTPUT
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/13ea3568-09fe-429b-8daf-8b32886198e1" />
 
 
 
